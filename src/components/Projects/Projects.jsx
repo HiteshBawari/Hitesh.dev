@@ -1,3 +1,8 @@
+import ProtReact from "./ProtReact.png";
+import NightShiftIndia from "./NightShiftIndia.png";
+import HawariCloth from "./HawariCloth.png";
+import Prot1 from "./Prot1.png";
+import HawariCar from "./HawariCar.png";
 import { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
