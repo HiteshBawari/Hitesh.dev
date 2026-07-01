@@ -16,7 +16,7 @@ const PROJECTS = [
     category: "React",
     description:
       "A modern developer portfolio with GSAP animations, 3D UI feel, and premium UX design.",
-    image: "src/components/Projects/ProtReact.png",
+    image: ProtReact,
     demo: "https://protfolio-website-hawari-qwsy.vercel.app/",
     github: "#",
   },
@@ -26,7 +26,7 @@ const PROJECTS = [
     category: "Design",
     description:
       "A sleek business landing page with smooth animations and high conversion UI structure.",
-    image: "src/components/Projects/NightShiftIndia.png",
+    image: NightShiftIndia,
     demo: "https://night-owl-india-website.vercel.app/",
     github: "#",
   },
@@ -36,7 +36,7 @@ const PROJECTS = [
     category: "Ecommerce",
     description:
       "A modern fashion eCommerce UI with product showcase and clean shopping experience.",
-    image: "src/components/Projects/HawariCloth.png",
+    image: HawariCloth,
     demo: "https://clothing-brand-hawari.vercel.app/",
     github: "#",
   },
@@ -46,7 +46,7 @@ const PROJECTS = [
     category: "React",
     description:
       "Another portfolio variant with different UI direction and animation system.",
-    image: "src/components/Projects/Prot1.png",
+    image: Prot1,
     demo: "https://my-protfolio-website-drab.vercel.app/",
     github: "#",
   },
@@ -56,7 +56,7 @@ const PROJECTS = [
     category: "Dashboard",
     description:
       "Car rental platform UI with modern booking flow and clean UX system.",
-    image: "src/components/Projects/HawariCar.png",
+    image: HawariCar,
     demo: "https://rent-car-beige.vercel.app/",
     github: "#",
   },
